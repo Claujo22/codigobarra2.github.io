@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 body {
-    min-height: 100%;
+    min-height: 98%;
     background-color: lightgray;
 }
 .imagen-home{
-    width: 99%;
+    width: 100%;
     
 }
 
